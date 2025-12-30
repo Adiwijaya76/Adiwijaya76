@@ -1,16 +1,99 @@
-## Hi there 👋
+<h1 align="center">
+  Hi 👋, I'm Yuda Adi Wijaya
+</h1>
 
-<!--
-**Adiwijaya76/Adiwijaya76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Flutter+Developer;Full-Stack+Engineer;Laravel+%7C+Vue+%7C+React;Golang+Backend+Developer"
+    alt="Typing SVG"
+  />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuda-adi-wijaya-050b47197/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yuda%20Adi%20Wijaya-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/yudaaa_adi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@yudaaa_adi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+Saya adalah **Software Developer** yang fokus membangun **mobile & web application** dengan performa tinggi, arsitektur rapi, dan scalable.
+
+Berpengalaman dalam:
+- 📱 **Flutter (Android & iOS)**
+- 🌍 **Full-Stack Web**
+- ⚡ **High-Performance Backend dengan Golang**
+
+> Clean code bukan pilihan, tapi kewajiban.
+
+---
+
+## 🛠 Tech Stack
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=js,vue,react,tailwind" />
+</p>
+
+### ⚙ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,go" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+---
+
+## 🚀 What I Build
+- 📱 Mobile Apps (Flutter)
+- 🌐 Web Apps (Laravel + Vue / React)
+- ⚡ REST API & Microservices (Golang)
+- 🔐 Authentication System (JWT, OAuth, RBAC)
+- 📊 Admin Panel & Dashboard
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adiwijaya76&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiwijaya76&layout=compact" height="165"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Adiwijaya76/Adiwijaya76/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📌 Currently Learning
+- Advanced Flutter Architecture
+- Golang Microservices
+- Backend Security & Performance Optimization
+
+---
+
+## 🤝 Open For
+- Freelance & Contract
+- Remote / Full-Time
+- Open-Source Collaboration
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star!
+</p>
