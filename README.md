@@ -67,11 +67,12 @@ Berpengalaman dalam:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Adiwijaya76&show_icons=true" />
+  <img src="https://raw.githubusercontent.com/Adiwijaya76/Adiwijaya76/main/profile-summary-card-output/profile-details.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiwijaya76&layout=compact&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Adiwijaya76/Adiwijaya76/main/profile-summary-card-output/repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Adiwijaya76/Adiwijaya76/main/profile-summary-card-output/most-commit-language.svg" />
 </p>
 
 ---
