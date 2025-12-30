@@ -67,8 +67,11 @@ Berpengalaman dalam:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adiwijaya76&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiwijaya76&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adiwijaya76&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiwijaya76&layout=compact&hide_border=true" />
 </p>
 
 ---
