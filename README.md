@@ -65,23 +65,6 @@ Berpengalaman dalam:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adiwijaya76/Adiwijaya76/main/profile-summary-card-output/profile-details.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adiwijaya76/Adiwijaya76/main/profile-summary-card-output/repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/Adiwijaya76/Adiwijaya76/main/profile-summary-card-output/most-commit-language.svg" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Adiwijaya76/Adiwijaya76/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## 📌 Currently Learning
